@@ -1,0 +1,6 @@
+[
+	{ "name": "Paris", "poster" : "paris.webp" , "coords" : { "lat": 48.8588845, "lng": 2.3469411 } },
+	{ "name": "London", "poster" : "london.webp" , "coords" : { "lat": 51.5065956, "lng": -0.1143403 } },
+	{ "name": "Roma", "poster" : "roma.webp" , "coords" : { "lat": 41.8987963, "lng": 12.5051136 } },
+	{ "name": "Tokyo", "poster" : "tokyo.webp" , "coords" : { "lat": 35.7000705, "lng": 139.7321133 } }
+]
